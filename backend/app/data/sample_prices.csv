@@ -1,0 +1,1331 @@
+date,region,commodity,price,unit
+2023-01-01,Moscow,Bread,61.2,RUB/kg
+2023-02-01,Moscow,Bread,61.3,RUB/kg
+2023-03-01,Moscow,Bread,77.3,RUB/kg
+2023-04-01,Moscow,Bread,70.1,RUB/kg
+2023-05-01,Moscow,Bread,63.9,RUB/kg
+2023-06-01,Moscow,Bread,62.1,RUB/kg
+2023-07-01,Moscow,Bread,66.8,RUB/kg
+2023-08-01,Moscow,Bread,65.8,RUB/kg
+2023-09-01,Moscow,Bread,65.5,RUB/kg
+2023-10-01,Moscow,Bread,69.8,RUB/kg
+2023-11-01,Moscow,Bread,65.5,RUB/kg
+2023-12-01,Moscow,Bread,69.4,RUB/kg
+2024-01-01,Moscow,Bread,65.1,RUB/kg
+2024-02-01,Moscow,Bread,71.5,RUB/kg
+2024-03-01,Moscow,Bread,72.6,RUB/kg
+2024-04-01,Moscow,Bread,73.4,RUB/kg
+2024-05-01,Moscow,Bread,70.9,RUB/kg
+2024-06-01,Moscow,Bread,73.7,RUB/kg
+2024-07-01,Moscow,Bread,74.2,RUB/kg
+2024-08-01,Moscow,Bread,77.6,RUB/kg
+2024-09-01,Moscow,Bread,76.5,RUB/kg
+2024-10-01,Moscow,Bread,70.7,RUB/kg
+2024-11-01,Moscow,Bread,74.1,RUB/kg
+2024-12-01,Moscow,Bread,72.6,RUB/kg
+2025-01-01,Moscow,Bread,77.0,RUB/kg
+2025-02-01,Moscow,Bread,77.4,RUB/kg
+2025-03-01,Moscow,Bread,76.5,RUB/kg
+2025-04-01,Moscow,Bread,74.9,RUB/kg
+2025-05-01,Moscow,Bread,80.9,RUB/kg
+2025-06-01,Moscow,Bread,79.8,RUB/kg
+2025-07-01,Moscow,Bread,82.3,RUB/kg
+2025-08-01,Moscow,Bread,75.3,RUB/kg
+2025-09-01,Moscow,Bread,77.8,RUB/kg
+2025-10-01,Moscow,Bread,82.1,RUB/kg
+2025-11-01,Moscow,Bread,81.9,RUB/kg
+2025-12-01,Moscow,Bread,82.0,RUB/kg
+2026-01-01,Moscow,Bread,84.3,RUB/kg
+2026-02-01,Moscow,Bread,80.3,RUB/kg
+2023-01-01,Moscow,Milk,113.6,RUB/l
+2023-02-01,Moscow,Milk,120.6,RUB/l
+2023-03-01,Moscow,Milk,134.3,RUB/l
+2023-04-01,Moscow,Milk,128.2,RUB/l
+2023-05-01,Moscow,Milk,117.3,RUB/l
+2023-06-01,Moscow,Milk,121.1,RUB/l
+2023-07-01,Moscow,Milk,116.4,RUB/l
+2023-08-01,Moscow,Milk,125.5,RUB/l
+2023-09-01,Moscow,Milk,129.6,RUB/l
+2023-10-01,Moscow,Milk,121.9,RUB/l
+2023-11-01,Moscow,Milk,126.1,RUB/l
+2023-12-01,Moscow,Milk,124.9,RUB/l
+2024-01-01,Moscow,Milk,122.6,RUB/l
+2024-02-01,Moscow,Milk,131.4,RUB/l
+2024-03-01,Moscow,Milk,128.5,RUB/l
+2024-04-01,Moscow,Milk,125.8,RUB/l
+2024-05-01,Moscow,Milk,137.2,RUB/l
+2024-06-01,Moscow,Milk,130.9,RUB/l
+2024-07-01,Moscow,Milk,129.2,RUB/l
+2024-08-01,Moscow,Milk,152.7,RUB/l
+2024-09-01,Moscow,Milk,141.7,RUB/l
+2024-10-01,Moscow,Milk,135.6,RUB/l
+2024-11-01,Moscow,Milk,142.8,RUB/l
+2024-12-01,Moscow,Milk,130.6,RUB/l
+2025-01-01,Moscow,Milk,146.2,RUB/l
+2025-02-01,Moscow,Milk,135.5,RUB/l
+2025-03-01,Moscow,Milk,139.4,RUB/l
+2025-04-01,Moscow,Milk,139.2,RUB/l
+2025-05-01,Moscow,Milk,142.6,RUB/l
+2025-06-01,Moscow,Milk,163.7,RUB/l
+2025-07-01,Moscow,Milk,162.8,RUB/l
+2025-08-01,Moscow,Milk,140.7,RUB/l
+2025-09-01,Moscow,Milk,152.7,RUB/l
+2025-10-01,Moscow,Milk,147.3,RUB/l
+2025-11-01,Moscow,Milk,142.2,RUB/l
+2025-12-01,Moscow,Milk,149.5,RUB/l
+2026-01-01,Moscow,Milk,145.2,RUB/l
+2026-02-01,Moscow,Milk,149.8,RUB/l
+2023-01-01,Moscow,Eggs,91.0,RUB/10pcs
+2023-02-01,Moscow,Eggs,79.1,RUB/10pcs
+2023-03-01,Moscow,Eggs,89.0,RUB/10pcs
+2023-04-01,Moscow,Eggs,92.3,RUB/10pcs
+2023-05-01,Moscow,Eggs,82.5,RUB/10pcs
+2023-06-01,Moscow,Eggs,81.9,RUB/10pcs
+2023-07-01,Moscow,Eggs,78.3,RUB/10pcs
+2023-08-01,Moscow,Eggs,81.8,RUB/10pcs
+2023-09-01,Moscow,Eggs,86.4,RUB/10pcs
+2023-10-01,Moscow,Eggs,85.2,RUB/10pcs
+2023-11-01,Moscow,Eggs,82.6,RUB/10pcs
+2023-12-01,Moscow,Eggs,99.0,RUB/10pcs
+2024-01-01,Moscow,Eggs,95.6,RUB/10pcs
+2024-02-01,Moscow,Eggs,84.3,RUB/10pcs
+2024-03-01,Moscow,Eggs,87.8,RUB/10pcs
+2024-04-01,Moscow,Eggs,89.8,RUB/10pcs
+2024-05-01,Moscow,Eggs,85.7,RUB/10pcs
+2024-06-01,Moscow,Eggs,96.1,RUB/10pcs
+2024-07-01,Moscow,Eggs,97.2,RUB/10pcs
+2024-08-01,Moscow,Eggs,101.0,RUB/10pcs
+2024-09-01,Moscow,Eggs,95.1,RUB/10pcs
+2024-10-01,Moscow,Eggs,94.2,RUB/10pcs
+2024-11-01,Moscow,Eggs,92.4,RUB/10pcs
+2024-12-01,Moscow,Eggs,106.1,RUB/10pcs
+2025-01-01,Moscow,Eggs,116.7,RUB/10pcs
+2025-02-01,Moscow,Eggs,96.8,RUB/10pcs
+2025-03-01,Moscow,Eggs,90.5,RUB/10pcs
+2025-04-01,Moscow,Eggs,101.1,RUB/10pcs
+2025-05-01,Moscow,Eggs,99.1,RUB/10pcs
+2025-06-01,Moscow,Eggs,93.8,RUB/10pcs
+2025-07-01,Moscow,Eggs,101.0,RUB/10pcs
+2025-08-01,Moscow,Eggs,99.0,RUB/10pcs
+2025-09-01,Moscow,Eggs,93.1,RUB/10pcs
+2025-10-01,Moscow,Eggs,102.8,RUB/10pcs
+2025-11-01,Moscow,Eggs,95.5,RUB/10pcs
+2025-12-01,Moscow,Eggs,118.7,RUB/10pcs
+2026-01-01,Moscow,Eggs,120.2,RUB/10pcs
+2026-02-01,Moscow,Eggs,103.3,RUB/10pcs
+2023-01-01,Moscow,Tomatoes,214.7,RUB/kg
+2023-02-01,Moscow,Tomatoes,205.0,RUB/kg
+2023-03-01,Moscow,Tomatoes,234.5,RUB/kg
+2023-04-01,Moscow,Tomatoes,182.4,RUB/kg
+2023-05-01,Moscow,Tomatoes,154.1,RUB/kg
+2023-06-01,Moscow,Tomatoes,143.2,RUB/kg
+2023-07-01,Moscow,Tomatoes,120.8,RUB/kg
+2023-08-01,Moscow,Tomatoes,132.2,RUB/kg
+2023-09-01,Moscow,Tomatoes,184.8,RUB/kg
+2023-10-01,Moscow,Tomatoes,163.3,RUB/kg
+2023-11-01,Moscow,Tomatoes,183.8,RUB/kg
+2023-12-01,Moscow,Tomatoes,236.3,RUB/kg
+2024-01-01,Moscow,Tomatoes,221.2,RUB/kg
+2024-02-01,Moscow,Tomatoes,232.4,RUB/kg
+2024-03-01,Moscow,Tomatoes,242.2,RUB/kg
+2024-04-01,Moscow,Tomatoes,164.2,RUB/kg
+2024-05-01,Moscow,Tomatoes,170.7,RUB/kg
+2024-06-01,Moscow,Tomatoes,139.0,RUB/kg
+2024-07-01,Moscow,Tomatoes,143.3,RUB/kg
+2024-08-01,Moscow,Tomatoes,159.3,RUB/kg
+2024-09-01,Moscow,Tomatoes,219.6,RUB/kg
+2024-10-01,Moscow,Tomatoes,181.8,RUB/kg
+2024-11-01,Moscow,Tomatoes,178.7,RUB/kg
+2024-12-01,Moscow,Tomatoes,244.8,RUB/kg
+2025-01-01,Moscow,Tomatoes,255.4,RUB/kg
+2025-02-01,Moscow,Tomatoes,237.7,RUB/kg
+2025-03-01,Moscow,Tomatoes,246.5,RUB/kg
+2025-04-01,Moscow,Tomatoes,208.2,RUB/kg
+2025-05-01,Moscow,Tomatoes,208.3,RUB/kg
+2025-06-01,Moscow,Tomatoes,143.9,RUB/kg
+2025-07-01,Moscow,Tomatoes,157.4,RUB/kg
+2025-08-01,Moscow,Tomatoes,168.0,RUB/kg
+2025-09-01,Moscow,Tomatoes,210.2,RUB/kg
+2025-10-01,Moscow,Tomatoes,191.0,RUB/kg
+2025-11-01,Moscow,Tomatoes,221.4,RUB/kg
+2025-12-01,Moscow,Tomatoes,268.5,RUB/kg
+2026-01-01,Moscow,Tomatoes,269.1,RUB/kg
+2026-02-01,Moscow,Tomatoes,294.9,RUB/kg
+2023-01-01,Moscow,Cucumbers,304.4,RUB/kg
+2023-02-01,Moscow,Cucumbers,277.2,RUB/kg
+2023-03-01,Moscow,Cucumbers,343.4,RUB/kg
+2023-04-01,Moscow,Cucumbers,276.9,RUB/kg
+2023-05-01,Moscow,Cucumbers,229.6,RUB/kg
+2023-06-01,Moscow,Cucumbers,192.6,RUB/kg
+2023-07-01,Moscow,Cucumbers,178.4,RUB/kg
+2023-08-01,Moscow,Cucumbers,177.8,RUB/kg
+2023-09-01,Moscow,Cucumbers,239.2,RUB/kg
+2023-10-01,Moscow,Cucumbers,214.3,RUB/kg
+2023-11-01,Moscow,Cucumbers,238.7,RUB/kg
+2023-12-01,Moscow,Cucumbers,320.4,RUB/kg
+2024-01-01,Moscow,Cucumbers,314.6,RUB/kg
+2024-02-01,Moscow,Cucumbers,332.6,RUB/kg
+2024-03-01,Moscow,Cucumbers,322.4,RUB/kg
+2024-04-01,Moscow,Cucumbers,257.2,RUB/kg
+2024-05-01,Moscow,Cucumbers,260.7,RUB/kg
+2024-06-01,Moscow,Cucumbers,185.1,RUB/kg
+2024-07-01,Moscow,Cucumbers,199.7,RUB/kg
+2024-08-01,Moscow,Cucumbers,222.2,RUB/kg
+2024-09-01,Moscow,Cucumbers,285.3,RUB/kg
+2024-10-01,Moscow,Cucumbers,247.6,RUB/kg
+2024-11-01,Moscow,Cucumbers,266.3,RUB/kg
+2024-12-01,Moscow,Cucumbers,352.9,RUB/kg
+2025-01-01,Moscow,Cucumbers,324.6,RUB/kg
+2025-02-01,Moscow,Cucumbers,345.6,RUB/kg
+2025-03-01,Moscow,Cucumbers,348.7,RUB/kg
+2025-04-01,Moscow,Cucumbers,274.4,RUB/kg
+2025-05-01,Moscow,Cucumbers,262.6,RUB/kg
+2025-06-01,Moscow,Cucumbers,207.9,RUB/kg
+2025-07-01,Moscow,Cucumbers,204.3,RUB/kg
+2025-08-01,Moscow,Cucumbers,232.4,RUB/kg
+2025-09-01,Moscow,Cucumbers,299.7,RUB/kg
+2025-10-01,Moscow,Cucumbers,275.3,RUB/kg
+2025-11-01,Moscow,Cucumbers,259.3,RUB/kg
+2025-12-01,Moscow,Cucumbers,370.1,RUB/kg
+2026-01-01,Moscow,Cucumbers,378.9,RUB/kg
+2026-02-01,Moscow,Cucumbers,365.2,RUB/kg
+2023-01-01,Moscow,Bananas,26.9,RUB/kg
+2023-02-01,Moscow,Bananas,26.1,RUB/kg
+2023-03-01,Moscow,Bananas,30.0,RUB/kg
+2023-04-01,Moscow,Bananas,31.6,RUB/kg
+2023-05-01,Moscow,Bananas,26.6,RUB/kg
+2023-06-01,Moscow,Bananas,25.6,RUB/kg
+2023-07-01,Moscow,Bananas,26.9,RUB/kg
+2023-08-01,Moscow,Bananas,27.2,RUB/kg
+2023-09-01,Moscow,Bananas,27.9,RUB/kg
+2023-10-01,Moscow,Bananas,27.9,RUB/kg
+2023-11-01,Moscow,Bananas,27.6,RUB/kg
+2023-12-01,Moscow,Bananas,27.5,RUB/kg
+2024-01-01,Moscow,Bananas,29.7,RUB/kg
+2024-02-01,Moscow,Bananas,28.0,RUB/kg
+2024-03-01,Moscow,Bananas,29.5,RUB/kg
+2024-04-01,Moscow,Bananas,28.2,RUB/kg
+2024-05-01,Moscow,Bananas,29.8,RUB/kg
+2024-06-01,Moscow,Bananas,30.3,RUB/kg
+2024-07-01,Moscow,Bananas,31.4,RUB/kg
+2024-08-01,Moscow,Bananas,35.6,RUB/kg
+2024-09-01,Moscow,Bananas,34.5,RUB/kg
+2024-10-01,Moscow,Bananas,31.3,RUB/kg
+2024-11-01,Moscow,Bananas,32.2,RUB/kg
+2024-12-01,Moscow,Bananas,30.4,RUB/kg
+2025-01-01,Moscow,Bananas,31.2,RUB/kg
+2025-02-01,Moscow,Bananas,32.1,RUB/kg
+2025-03-01,Moscow,Bananas,31.4,RUB/kg
+2025-04-01,Moscow,Bananas,30.7,RUB/kg
+2025-05-01,Moscow,Bananas,31.3,RUB/kg
+2025-06-01,Moscow,Bananas,31.6,RUB/kg
+2025-07-01,Moscow,Bananas,32.7,RUB/kg
+2025-08-01,Moscow,Bananas,32.2,RUB/kg
+2025-09-01,Moscow,Bananas,33.1,RUB/kg
+2025-10-01,Moscow,Bananas,32.5,RUB/kg
+2025-11-01,Moscow,Bananas,34.6,RUB/kg
+2025-12-01,Moscow,Bananas,34.7,RUB/kg
+2026-01-01,Moscow,Bananas,35.7,RUB/kg
+2026-02-01,Moscow,Bananas,32.9,RUB/kg
+2023-01-01,Moscow,Chicken Breast,421.6,RUB/kg
+2023-02-01,Moscow,Chicken Breast,444.5,RUB/kg
+2023-03-01,Moscow,Chicken Breast,495.1,RUB/kg
+2023-04-01,Moscow,Chicken Breast,475.3,RUB/kg
+2023-05-01,Moscow,Chicken Breast,411.8,RUB/kg
+2023-06-01,Moscow,Chicken Breast,434.7,RUB/kg
+2023-07-01,Moscow,Chicken Breast,421.9,RUB/kg
+2023-08-01,Moscow,Chicken Breast,425.4,RUB/kg
+2023-09-01,Moscow,Chicken Breast,429.0,RUB/kg
+2023-10-01,Moscow,Chicken Breast,445.4,RUB/kg
+2023-11-01,Moscow,Chicken Breast,441.5,RUB/kg
+2023-12-01,Moscow,Chicken Breast,441.4,RUB/kg
+2024-01-01,Moscow,Chicken Breast,439.4,RUB/kg
+2024-02-01,Moscow,Chicken Breast,445.3,RUB/kg
+2024-03-01,Moscow,Chicken Breast,465.6,RUB/kg
+2024-04-01,Moscow,Chicken Breast,486.0,RUB/kg
+2024-05-01,Moscow,Chicken Breast,447.4,RUB/kg
+2024-06-01,Moscow,Chicken Breast,461.2,RUB/kg
+2024-07-01,Moscow,Chicken Breast,485.4,RUB/kg
+2024-08-01,Moscow,Chicken Breast,554.8,RUB/kg
+2024-09-01,Moscow,Chicken Breast,556.0,RUB/kg
+2024-10-01,Moscow,Chicken Breast,460.5,RUB/kg
+2024-11-01,Moscow,Chicken Breast,486.9,RUB/kg
+2024-12-01,Moscow,Chicken Breast,485.8,RUB/kg
+2025-01-01,Moscow,Chicken Breast,515.6,RUB/kg
+2025-02-01,Moscow,Chicken Breast,496.8,RUB/kg
+2025-03-01,Moscow,Chicken Breast,498.0,RUB/kg
+2025-04-01,Moscow,Chicken Breast,539.2,RUB/kg
+2025-05-01,Moscow,Chicken Breast,482.8,RUB/kg
+2025-06-01,Moscow,Chicken Breast,601.0,RUB/kg
+2025-07-01,Moscow,Chicken Breast,582.5,RUB/kg
+2025-08-01,Moscow,Chicken Breast,537.0,RUB/kg
+2025-09-01,Moscow,Chicken Breast,528.2,RUB/kg
+2025-10-01,Moscow,Chicken Breast,549.1,RUB/kg
+2025-11-01,Moscow,Chicken Breast,545.6,RUB/kg
+2025-12-01,Moscow,Chicken Breast,544.0,RUB/kg
+2026-01-01,Moscow,Chicken Breast,537.6,RUB/kg
+2026-02-01,Moscow,Chicken Breast,542.9,RUB/kg
+2023-01-01,St Petersburg,Bread,66.1,RUB/kg
+2023-02-01,St Petersburg,Bread,64.3,RUB/kg
+2023-03-01,St Petersburg,Bread,77.0,RUB/kg
+2023-04-01,St Petersburg,Bread,77.1,RUB/kg
+2023-05-01,St Petersburg,Bread,65.7,RUB/kg
+2023-06-01,St Petersburg,Bread,65.5,RUB/kg
+2023-07-01,St Petersburg,Bread,66.9,RUB/kg
+2023-08-01,St Petersburg,Bread,67.4,RUB/kg
+2023-09-01,St Petersburg,Bread,66.0,RUB/kg
+2023-10-01,St Petersburg,Bread,67.6,RUB/kg
+2023-11-01,St Petersburg,Bread,68.4,RUB/kg
+2023-12-01,St Petersburg,Bread,65.4,RUB/kg
+2024-01-01,St Petersburg,Bread,68.7,RUB/kg
+2024-02-01,St Petersburg,Bread,69.9,RUB/kg
+2024-03-01,St Petersburg,Bread,71.5,RUB/kg
+2024-04-01,St Petersburg,Bread,70.1,RUB/kg
+2024-05-01,St Petersburg,Bread,71.5,RUB/kg
+2024-06-01,St Petersburg,Bread,71.1,RUB/kg
+2024-07-01,St Petersburg,Bread,73.6,RUB/kg
+2024-08-01,St Petersburg,Bread,82.5,RUB/kg
+2024-09-01,St Petersburg,Bread,78.8,RUB/kg
+2024-10-01,St Petersburg,Bread,73.5,RUB/kg
+2024-11-01,St Petersburg,Bread,74.6,RUB/kg
+2024-12-01,St Petersburg,Bread,74.6,RUB/kg
+2025-01-01,St Petersburg,Bread,75.5,RUB/kg
+2025-02-01,St Petersburg,Bread,75.5,RUB/kg
+2025-03-01,St Petersburg,Bread,73.2,RUB/kg
+2025-04-01,St Petersburg,Bread,73.4,RUB/kg
+2025-05-01,St Petersburg,Bread,79.6,RUB/kg
+2025-06-01,St Petersburg,Bread,75.1,RUB/kg
+2025-07-01,St Petersburg,Bread,80.3,RUB/kg
+2025-08-01,St Petersburg,Bread,82.0,RUB/kg
+2025-09-01,St Petersburg,Bread,76.5,RUB/kg
+2025-10-01,St Petersburg,Bread,77.5,RUB/kg
+2025-11-01,St Petersburg,Bread,76.7,RUB/kg
+2025-12-01,St Petersburg,Bread,80.6,RUB/kg
+2026-01-01,St Petersburg,Bread,85.3,RUB/kg
+2026-02-01,St Petersburg,Bread,81.6,RUB/kg
+2023-01-01,St Petersburg,Milk,117.8,RUB/l
+2023-02-01,St Petersburg,Milk,119.6,RUB/l
+2023-03-01,St Petersburg,Milk,131.6,RUB/l
+2023-04-01,St Petersburg,Milk,136.5,RUB/l
+2023-05-01,St Petersburg,Milk,120.2,RUB/l
+2023-06-01,St Petersburg,Milk,117.9,RUB/l
+2023-07-01,St Petersburg,Milk,114.1,RUB/l
+2023-08-01,St Petersburg,Milk,120.1,RUB/l
+2023-09-01,St Petersburg,Milk,122.3,RUB/l
+2023-10-01,St Petersburg,Milk,126.4,RUB/l
+2023-11-01,St Petersburg,Milk,123.7,RUB/l
+2023-12-01,St Petersburg,Milk,124.9,RUB/l
+2024-01-01,St Petersburg,Milk,129.4,RUB/l
+2024-02-01,St Petersburg,Milk,128.9,RUB/l
+2024-03-01,St Petersburg,Milk,130.2,RUB/l
+2024-04-01,St Petersburg,Milk,135.6,RUB/l
+2024-05-01,St Petersburg,Milk,124.8,RUB/l
+2024-06-01,St Petersburg,Milk,128.6,RUB/l
+2024-07-01,St Petersburg,Milk,125.0,RUB/l
+2024-08-01,St Petersburg,Milk,143.4,RUB/l
+2024-09-01,St Petersburg,Milk,145.3,RUB/l
+2024-10-01,St Petersburg,Milk,136.1,RUB/l
+2024-11-01,St Petersburg,Milk,142.2,RUB/l
+2024-12-01,St Petersburg,Milk,140.8,RUB/l
+2025-01-01,St Petersburg,Milk,144.2,RUB/l
+2025-02-01,St Petersburg,Milk,139.0,RUB/l
+2025-03-01,St Petersburg,Milk,146.0,RUB/l
+2025-04-01,St Petersburg,Milk,139.0,RUB/l
+2025-05-01,St Petersburg,Milk,137.2,RUB/l
+2025-06-01,St Petersburg,Milk,163.4,RUB/l
+2025-07-01,St Petersburg,Milk,163.6,RUB/l
+2025-08-01,St Petersburg,Milk,149.3,RUB/l
+2025-09-01,St Petersburg,Milk,141.6,RUB/l
+2025-10-01,St Petersburg,Milk,142.8,RUB/l
+2025-11-01,St Petersburg,Milk,144.2,RUB/l
+2025-12-01,St Petersburg,Milk,151.6,RUB/l
+2026-01-01,St Petersburg,Milk,155.0,RUB/l
+2026-02-01,St Petersburg,Milk,162.5,RUB/l
+2023-01-01,St Petersburg,Eggs,89.9,RUB/10pcs
+2023-02-01,St Petersburg,Eggs,77.0,RUB/10pcs
+2023-03-01,St Petersburg,Eggs,94.4,RUB/10pcs
+2023-04-01,St Petersburg,Eggs,90.6,RUB/10pcs
+2023-05-01,St Petersburg,Eggs,78.1,RUB/10pcs
+2023-06-01,St Petersburg,Eggs,79.1,RUB/10pcs
+2023-07-01,St Petersburg,Eggs,85.8,RUB/10pcs
+2023-08-01,St Petersburg,Eggs,82.5,RUB/10pcs
+2023-09-01,St Petersburg,Eggs,84.4,RUB/10pcs
+2023-10-01,St Petersburg,Eggs,86.9,RUB/10pcs
+2023-11-01,St Petersburg,Eggs,82.9,RUB/10pcs
+2023-12-01,St Petersburg,Eggs,100.1,RUB/10pcs
+2024-01-01,St Petersburg,Eggs,98.0,RUB/10pcs
+2024-02-01,St Petersburg,Eggs,91.8,RUB/10pcs
+2024-03-01,St Petersburg,Eggs,86.9,RUB/10pcs
+2024-04-01,St Petersburg,Eggs,84.1,RUB/10pcs
+2024-05-01,St Petersburg,Eggs,91.6,RUB/10pcs
+2024-06-01,St Petersburg,Eggs,89.2,RUB/10pcs
+2024-07-01,St Petersburg,Eggs,93.3,RUB/10pcs
+2024-08-01,St Petersburg,Eggs,99.3,RUB/10pcs
+2024-09-01,St Petersburg,Eggs,105.3,RUB/10pcs
+2024-10-01,St Petersburg,Eggs,89.0,RUB/10pcs
+2024-11-01,St Petersburg,Eggs,89.9,RUB/10pcs
+2024-12-01,St Petersburg,Eggs,115.4,RUB/10pcs
+2025-01-01,St Petersburg,Eggs,104.3,RUB/10pcs
+2025-02-01,St Petersburg,Eggs,97.7,RUB/10pcs
+2025-03-01,St Petersburg,Eggs,97.4,RUB/10pcs
+2025-04-01,St Petersburg,Eggs,96.3,RUB/10pcs
+2025-05-01,St Petersburg,Eggs,99.3,RUB/10pcs
+2025-06-01,St Petersburg,Eggs,97.0,RUB/10pcs
+2025-07-01,St Petersburg,Eggs,102.4,RUB/10pcs
+2025-08-01,St Petersburg,Eggs,105.7,RUB/10pcs
+2025-09-01,St Petersburg,Eggs,99.7,RUB/10pcs
+2025-10-01,St Petersburg,Eggs,103.0,RUB/10pcs
+2025-11-01,St Petersburg,Eggs,103.8,RUB/10pcs
+2025-12-01,St Petersburg,Eggs,113.1,RUB/10pcs
+2026-01-01,St Petersburg,Eggs,123.7,RUB/10pcs
+2026-02-01,St Petersburg,Eggs,100.4,RUB/10pcs
+2023-01-01,St Petersburg,Tomatoes,205.2,RUB/kg
+2023-02-01,St Petersburg,Tomatoes,210.4,RUB/kg
+2023-03-01,St Petersburg,Tomatoes,233.0,RUB/kg
+2023-04-01,St Petersburg,Tomatoes,192.1,RUB/kg
+2023-05-01,St Petersburg,Tomatoes,165.3,RUB/kg
+2023-06-01,St Petersburg,Tomatoes,135.8,RUB/kg
+2023-07-01,St Petersburg,Tomatoes,134.5,RUB/kg
+2023-08-01,St Petersburg,Tomatoes,137.8,RUB/kg
+2023-09-01,St Petersburg,Tomatoes,181.8,RUB/kg
+2023-10-01,St Petersburg,Tomatoes,159.6,RUB/kg
+2023-11-01,St Petersburg,Tomatoes,179.9,RUB/kg
+2023-12-01,St Petersburg,Tomatoes,233.0,RUB/kg
+2024-01-01,St Petersburg,Tomatoes,226.2,RUB/kg
+2024-02-01,St Petersburg,Tomatoes,232.1,RUB/kg
+2024-03-01,St Petersburg,Tomatoes,227.3,RUB/kg
+2024-04-01,St Petersburg,Tomatoes,184.9,RUB/kg
+2024-05-01,St Petersburg,Tomatoes,178.8,RUB/kg
+2024-06-01,St Petersburg,Tomatoes,148.6,RUB/kg
+2024-07-01,St Petersburg,Tomatoes,153.5,RUB/kg
+2024-08-01,St Petersburg,Tomatoes,156.9,RUB/kg
+2024-09-01,St Petersburg,Tomatoes,215.0,RUB/kg
+2024-10-01,St Petersburg,Tomatoes,177.3,RUB/kg
+2024-11-01,St Petersburg,Tomatoes,208.2,RUB/kg
+2024-12-01,St Petersburg,Tomatoes,251.2,RUB/kg
+2025-01-01,St Petersburg,Tomatoes,238.8,RUB/kg
+2025-02-01,St Petersburg,Tomatoes,258.7,RUB/kg
+2025-03-01,St Petersburg,Tomatoes,265.1,RUB/kg
+2025-04-01,St Petersburg,Tomatoes,187.2,RUB/kg
+2025-05-01,St Petersburg,Tomatoes,189.4,RUB/kg
+2025-06-01,St Petersburg,Tomatoes,148.6,RUB/kg
+2025-07-01,St Petersburg,Tomatoes,161.3,RUB/kg
+2025-08-01,St Petersburg,Tomatoes,145.9,RUB/kg
+2025-09-01,St Petersburg,Tomatoes,216.4,RUB/kg
+2025-10-01,St Petersburg,Tomatoes,203.6,RUB/kg
+2025-11-01,St Petersburg,Tomatoes,195.0,RUB/kg
+2025-12-01,St Petersburg,Tomatoes,256.1,RUB/kg
+2026-01-01,St Petersburg,Tomatoes,262.0,RUB/kg
+2026-02-01,St Petersburg,Tomatoes,289.2,RUB/kg
+2023-01-01,St Petersburg,Cucumbers,273.1,RUB/kg
+2023-02-01,St Petersburg,Cucumbers,284.5,RUB/kg
+2023-03-01,St Petersburg,Cucumbers,331.9,RUB/kg
+2023-04-01,St Petersburg,Cucumbers,264.6,RUB/kg
+2023-05-01,St Petersburg,Cucumbers,222.1,RUB/kg
+2023-06-01,St Petersburg,Cucumbers,181.6,RUB/kg
+2023-07-01,St Petersburg,Cucumbers,188.2,RUB/kg
+2023-08-01,St Petersburg,Cucumbers,194.8,RUB/kg
+2023-09-01,St Petersburg,Cucumbers,227.8,RUB/kg
+2023-10-01,St Petersburg,Cucumbers,247.3,RUB/kg
+2023-11-01,St Petersburg,Cucumbers,224.1,RUB/kg
+2023-12-01,St Petersburg,Cucumbers,319.7,RUB/kg
+2024-01-01,St Petersburg,Cucumbers,311.9,RUB/kg
+2024-02-01,St Petersburg,Cucumbers,314.5,RUB/kg
+2024-03-01,St Petersburg,Cucumbers,324.9,RUB/kg
+2024-04-01,St Petersburg,Cucumbers,257.9,RUB/kg
+2024-05-01,St Petersburg,Cucumbers,261.5,RUB/kg
+2024-06-01,St Petersburg,Cucumbers,205.2,RUB/kg
+2024-07-01,St Petersburg,Cucumbers,197.7,RUB/kg
+2024-08-01,St Petersburg,Cucumbers,223.0,RUB/kg
+2024-09-01,St Petersburg,Cucumbers,266.6,RUB/kg
+2024-10-01,St Petersburg,Cucumbers,238.8,RUB/kg
+2024-11-01,St Petersburg,Cucumbers,271.6,RUB/kg
+2024-12-01,St Petersburg,Cucumbers,351.3,RUB/kg
+2025-01-01,St Petersburg,Cucumbers,347.3,RUB/kg
+2025-02-01,St Petersburg,Cucumbers,356.1,RUB/kg
+2025-03-01,St Petersburg,Cucumbers,365.7,RUB/kg
+2025-04-01,St Petersburg,Cucumbers,255.6,RUB/kg
+2025-05-01,St Petersburg,Cucumbers,282.2,RUB/kg
+2025-06-01,St Petersburg,Cucumbers,233.0,RUB/kg
+2025-07-01,St Petersburg,Cucumbers,230.2,RUB/kg
+2025-08-01,St Petersburg,Cucumbers,235.5,RUB/kg
+2025-09-01,St Petersburg,Cucumbers,281.3,RUB/kg
+2025-10-01,St Petersburg,Cucumbers,263.2,RUB/kg
+2025-11-01,St Petersburg,Cucumbers,286.6,RUB/kg
+2025-12-01,St Petersburg,Cucumbers,380.5,RUB/kg
+2026-01-01,St Petersburg,Cucumbers,400.7,RUB/kg
+2026-02-01,St Petersburg,Cucumbers,351.9,RUB/kg
+2023-01-01,St Petersburg,Bananas,26.2,RUB/kg
+2023-02-01,St Petersburg,Bananas,27.3,RUB/kg
+2023-03-01,St Petersburg,Bananas,29.5,RUB/kg
+2023-04-01,St Petersburg,Bananas,30.9,RUB/kg
+2023-05-01,St Petersburg,Bananas,27.3,RUB/kg
+2023-06-01,St Petersburg,Bananas,26.8,RUB/kg
+2023-07-01,St Petersburg,Bananas,27.5,RUB/kg
+2023-08-01,St Petersburg,Bananas,26.9,RUB/kg
+2023-09-01,St Petersburg,Bananas,28.6,RUB/kg
+2023-10-01,St Petersburg,Bananas,28.5,RUB/kg
+2023-11-01,St Petersburg,Bananas,27.8,RUB/kg
+2023-12-01,St Petersburg,Bananas,27.3,RUB/kg
+2024-01-01,St Petersburg,Bananas,28.4,RUB/kg
+2024-02-01,St Petersburg,Bananas,28.5,RUB/kg
+2024-03-01,St Petersburg,Bananas,28.7,RUB/kg
+2024-04-01,St Petersburg,Bananas,30.9,RUB/kg
+2024-05-01,St Petersburg,Bananas,29.2,RUB/kg
+2024-06-01,St Petersburg,Bananas,30.9,RUB/kg
+2024-07-01,St Petersburg,Bananas,29.4,RUB/kg
+2024-08-01,St Petersburg,Bananas,32.4,RUB/kg
+2024-09-01,St Petersburg,Bananas,34.3,RUB/kg
+2024-10-01,St Petersburg,Bananas,29.6,RUB/kg
+2024-11-01,St Petersburg,Bananas,30.7,RUB/kg
+2024-12-01,St Petersburg,Bananas,30.5,RUB/kg
+2025-01-01,St Petersburg,Bananas,31.1,RUB/kg
+2025-02-01,St Petersburg,Bananas,30.3,RUB/kg
+2025-03-01,St Petersburg,Bananas,32.0,RUB/kg
+2025-04-01,St Petersburg,Bananas,32.3,RUB/kg
+2025-05-01,St Petersburg,Bananas,32.2,RUB/kg
+2025-06-01,St Petersburg,Bananas,30.8,RUB/kg
+2025-07-01,St Petersburg,Bananas,31.4,RUB/kg
+2025-08-01,St Petersburg,Bananas,32.0,RUB/kg
+2025-09-01,St Petersburg,Bananas,33.0,RUB/kg
+2025-10-01,St Petersburg,Bananas,32.5,RUB/kg
+2025-11-01,St Petersburg,Bananas,31.9,RUB/kg
+2025-12-01,St Petersburg,Bananas,34.5,RUB/kg
+2026-01-01,St Petersburg,Bananas,34.7,RUB/kg
+2026-02-01,St Petersburg,Bananas,35.1,RUB/kg
+2023-01-01,St Petersburg,Chicken Breast,407.3,RUB/kg
+2023-02-01,St Petersburg,Chicken Breast,415.5,RUB/kg
+2023-03-01,St Petersburg,Chicken Breast,510.1,RUB/kg
+2023-04-01,St Petersburg,Chicken Breast,495.6,RUB/kg
+2023-05-01,St Petersburg,Chicken Breast,425.7,RUB/kg
+2023-06-01,St Petersburg,Chicken Breast,437.3,RUB/kg
+2023-07-01,St Petersburg,Chicken Breast,431.5,RUB/kg
+2023-08-01,St Petersburg,Chicken Breast,432.0,RUB/kg
+2023-09-01,St Petersburg,Chicken Breast,423.3,RUB/kg
+2023-10-01,St Petersburg,Chicken Breast,451.2,RUB/kg
+2023-11-01,St Petersburg,Chicken Breast,462.1,RUB/kg
+2023-12-01,St Petersburg,Chicken Breast,451.8,RUB/kg
+2024-01-01,St Petersburg,Chicken Breast,444.2,RUB/kg
+2024-02-01,St Petersburg,Chicken Breast,478.1,RUB/kg
+2024-03-01,St Petersburg,Chicken Breast,477.1,RUB/kg
+2024-04-01,St Petersburg,Chicken Breast,461.8,RUB/kg
+2024-05-01,St Petersburg,Chicken Breast,458.3,RUB/kg
+2024-06-01,St Petersburg,Chicken Breast,467.1,RUB/kg
+2024-07-01,St Petersburg,Chicken Breast,459.2,RUB/kg
+2024-08-01,St Petersburg,Chicken Breast,534.4,RUB/kg
+2024-09-01,St Petersburg,Chicken Breast,531.3,RUB/kg
+2024-10-01,St Petersburg,Chicken Breast,481.3,RUB/kg
+2024-11-01,St Petersburg,Chicken Breast,488.7,RUB/kg
+2024-12-01,St Petersburg,Chicken Breast,506.6,RUB/kg
+2025-01-01,St Petersburg,Chicken Breast,503.9,RUB/kg
+2025-02-01,St Petersburg,Chicken Breast,482.4,RUB/kg
+2025-03-01,St Petersburg,Chicken Breast,508.5,RUB/kg
+2025-04-01,St Petersburg,Chicken Breast,533.0,RUB/kg
+2025-05-01,St Petersburg,Chicken Breast,540.3,RUB/kg
+2025-06-01,St Petersburg,Chicken Breast,584.1,RUB/kg
+2025-07-01,St Petersburg,Chicken Breast,578.0,RUB/kg
+2025-08-01,St Petersburg,Chicken Breast,527.4,RUB/kg
+2025-09-01,St Petersburg,Chicken Breast,536.4,RUB/kg
+2025-10-01,St Petersburg,Chicken Breast,549.1,RUB/kg
+2025-11-01,St Petersburg,Chicken Breast,569.5,RUB/kg
+2025-12-01,St Petersburg,Chicken Breast,556.9,RUB/kg
+2026-01-01,St Petersburg,Chicken Breast,529.4,RUB/kg
+2026-02-01,St Petersburg,Chicken Breast,578.7,RUB/kg
+2023-01-01,Novosibirsk,Bread,60.6,RUB/kg
+2023-02-01,Novosibirsk,Bread,63.3,RUB/kg
+2023-03-01,Novosibirsk,Bread,71.4,RUB/kg
+2023-04-01,Novosibirsk,Bread,72.5,RUB/kg
+2023-05-01,Novosibirsk,Bread,63.1,RUB/kg
+2023-06-01,Novosibirsk,Bread,64.9,RUB/kg
+2023-07-01,Novosibirsk,Bread,64.8,RUB/kg
+2023-08-01,Novosibirsk,Bread,67.1,RUB/kg
+2023-09-01,Novosibirsk,Bread,68.4,RUB/kg
+2023-10-01,Novosibirsk,Bread,63.4,RUB/kg
+2023-11-01,Novosibirsk,Bread,67.2,RUB/kg
+2023-12-01,Novosibirsk,Bread,67.9,RUB/kg
+2024-01-01,Novosibirsk,Bread,69.6,RUB/kg
+2024-02-01,Novosibirsk,Bread,68.0,RUB/kg
+2024-03-01,Novosibirsk,Bread,68.9,RUB/kg
+2024-04-01,Novosibirsk,Bread,69.0,RUB/kg
+2024-05-01,Novosibirsk,Bread,71.8,RUB/kg
+2024-06-01,Novosibirsk,Bread,69.7,RUB/kg
+2024-07-01,Novosibirsk,Bread,72.3,RUB/kg
+2024-08-01,Novosibirsk,Bread,75.9,RUB/kg
+2024-09-01,Novosibirsk,Bread,77.3,RUB/kg
+2024-10-01,Novosibirsk,Bread,73.0,RUB/kg
+2024-11-01,Novosibirsk,Bread,72.2,RUB/kg
+2024-12-01,Novosibirsk,Bread,75.8,RUB/kg
+2025-01-01,Novosibirsk,Bread,78.9,RUB/kg
+2025-02-01,Novosibirsk,Bread,76.2,RUB/kg
+2025-03-01,Novosibirsk,Bread,71.6,RUB/kg
+2025-04-01,Novosibirsk,Bread,81.4,RUB/kg
+2025-05-01,Novosibirsk,Bread,78.6,RUB/kg
+2025-06-01,Novosibirsk,Bread,78.8,RUB/kg
+2025-07-01,Novosibirsk,Bread,74.1,RUB/kg
+2025-08-01,Novosibirsk,Bread,80.6,RUB/kg
+2025-09-01,Novosibirsk,Bread,82.8,RUB/kg
+2025-10-01,Novosibirsk,Bread,80.0,RUB/kg
+2025-11-01,Novosibirsk,Bread,81.3,RUB/kg
+2025-12-01,Novosibirsk,Bread,82.5,RUB/kg
+2026-01-01,Novosibirsk,Bread,80.8,RUB/kg
+2026-02-01,Novosibirsk,Bread,81.3,RUB/kg
+2023-01-01,Novosibirsk,Milk,84.5,RUB/l
+2023-02-01,Novosibirsk,Milk,84.9,RUB/l
+2023-03-01,Novosibirsk,Milk,103.0,RUB/l
+2023-04-01,Novosibirsk,Milk,104.4,RUB/l
+2023-05-01,Novosibirsk,Milk,84.8,RUB/l
+2023-06-01,Novosibirsk,Milk,91.9,RUB/l
+2023-07-01,Novosibirsk,Milk,88.6,RUB/l
+2023-08-01,Novosibirsk,Milk,92.2,RUB/l
+2023-09-01,Novosibirsk,Milk,94.8,RUB/l
+2023-10-01,Novosibirsk,Milk,95.0,RUB/l
+2023-11-01,Novosibirsk,Milk,94.2,RUB/l
+2023-12-01,Novosibirsk,Milk,97.0,RUB/l
+2024-01-01,Novosibirsk,Milk,92.3,RUB/l
+2024-02-01,Novosibirsk,Milk,92.1,RUB/l
+2024-03-01,Novosibirsk,Milk,92.8,RUB/l
+2024-04-01,Novosibirsk,Milk,93.9,RUB/l
+2024-05-01,Novosibirsk,Milk,95.6,RUB/l
+2024-06-01,Novosibirsk,Milk,97.7,RUB/l
+2024-07-01,Novosibirsk,Milk,98.9,RUB/l
+2024-08-01,Novosibirsk,Milk,113.6,RUB/l
+2024-09-01,Novosibirsk,Milk,113.0,RUB/l
+2024-10-01,Novosibirsk,Milk,102.8,RUB/l
+2024-11-01,Novosibirsk,Milk,104.7,RUB/l
+2024-12-01,Novosibirsk,Milk,101.0,RUB/l
+2025-01-01,Novosibirsk,Milk,97.4,RUB/l
+2025-02-01,Novosibirsk,Milk,104.6,RUB/l
+2025-03-01,Novosibirsk,Milk,105.4,RUB/l
+2025-04-01,Novosibirsk,Milk,102.7,RUB/l
+2025-05-01,Novosibirsk,Milk,104.1,RUB/l
+2025-06-01,Novosibirsk,Milk,118.5,RUB/l
+2025-07-01,Novosibirsk,Milk,118.2,RUB/l
+2025-08-01,Novosibirsk,Milk,108.4,RUB/l
+2025-09-01,Novosibirsk,Milk,112.6,RUB/l
+2025-10-01,Novosibirsk,Milk,103.9,RUB/l
+2025-11-01,Novosibirsk,Milk,110.3,RUB/l
+2025-12-01,Novosibirsk,Milk,114.8,RUB/l
+2026-01-01,Novosibirsk,Milk,118.9,RUB/l
+2026-02-01,Novosibirsk,Milk,113.2,RUB/l
+2023-01-01,Novosibirsk,Eggs,86.4,RUB/10pcs
+2023-02-01,Novosibirsk,Eggs,84.1,RUB/10pcs
+2023-03-01,Novosibirsk,Eggs,93.4,RUB/10pcs
+2023-04-01,Novosibirsk,Eggs,91.0,RUB/10pcs
+2023-05-01,Novosibirsk,Eggs,84.5,RUB/10pcs
+2023-06-01,Novosibirsk,Eggs,85.7,RUB/10pcs
+2023-07-01,Novosibirsk,Eggs,83.8,RUB/10pcs
+2023-08-01,Novosibirsk,Eggs,83.4,RUB/10pcs
+2023-09-01,Novosibirsk,Eggs,81.2,RUB/10pcs
+2023-10-01,Novosibirsk,Eggs,79.4,RUB/10pcs
+2023-11-01,Novosibirsk,Eggs,88.2,RUB/10pcs
+2023-12-01,Novosibirsk,Eggs,92.9,RUB/10pcs
+2024-01-01,Novosibirsk,Eggs,97.7,RUB/10pcs
+2024-02-01,Novosibirsk,Eggs,84.8,RUB/10pcs
+2024-03-01,Novosibirsk,Eggs,92.8,RUB/10pcs
+2024-04-01,Novosibirsk,Eggs,82.6,RUB/10pcs
+2024-05-01,Novosibirsk,Eggs,88.1,RUB/10pcs
+2024-06-01,Novosibirsk,Eggs,85.6,RUB/10pcs
+2024-07-01,Novosibirsk,Eggs,94.7,RUB/10pcs
+2024-08-01,Novosibirsk,Eggs,100.4,RUB/10pcs
+2024-09-01,Novosibirsk,Eggs,100.2,RUB/10pcs
+2024-10-01,Novosibirsk,Eggs,89.7,RUB/10pcs
+2024-11-01,Novosibirsk,Eggs,94.4,RUB/10pcs
+2024-12-01,Novosibirsk,Eggs,105.8,RUB/10pcs
+2025-01-01,Novosibirsk,Eggs,110.6,RUB/10pcs
+2025-02-01,Novosibirsk,Eggs,96.7,RUB/10pcs
+2025-03-01,Novosibirsk,Eggs,103.4,RUB/10pcs
+2025-04-01,Novosibirsk,Eggs,94.0,RUB/10pcs
+2025-05-01,Novosibirsk,Eggs,95.8,RUB/10pcs
+2025-06-01,Novosibirsk,Eggs,104.6,RUB/10pcs
+2025-07-01,Novosibirsk,Eggs,98.2,RUB/10pcs
+2025-08-01,Novosibirsk,Eggs,97.5,RUB/10pcs
+2025-09-01,Novosibirsk,Eggs,103.8,RUB/10pcs
+2025-10-01,Novosibirsk,Eggs,99.1,RUB/10pcs
+2025-11-01,Novosibirsk,Eggs,102.9,RUB/10pcs
+2025-12-01,Novosibirsk,Eggs,117.7,RUB/10pcs
+2026-01-01,Novosibirsk,Eggs,118.8,RUB/10pcs
+2026-02-01,Novosibirsk,Eggs,106.5,RUB/10pcs
+2023-01-01,Novosibirsk,Tomatoes,199.6,RUB/kg
+2023-02-01,Novosibirsk,Tomatoes,197.1,RUB/kg
+2023-03-01,Novosibirsk,Tomatoes,226.2,RUB/kg
+2023-04-01,Novosibirsk,Tomatoes,194.9,RUB/kg
+2023-05-01,Novosibirsk,Tomatoes,180.1,RUB/kg
+2023-06-01,Novosibirsk,Tomatoes,135.2,RUB/kg
+2023-07-01,Novosibirsk,Tomatoes,122.6,RUB/kg
+2023-08-01,Novosibirsk,Tomatoes,139.2,RUB/kg
+2023-09-01,Novosibirsk,Tomatoes,163.6,RUB/kg
+2023-10-01,Novosibirsk,Tomatoes,163.2,RUB/kg
+2023-11-01,Novosibirsk,Tomatoes,158.7,RUB/kg
+2023-12-01,Novosibirsk,Tomatoes,234.1,RUB/kg
+2024-01-01,Novosibirsk,Tomatoes,232.7,RUB/kg
+2024-02-01,Novosibirsk,Tomatoes,214.3,RUB/kg
+2024-03-01,Novosibirsk,Tomatoes,216.4,RUB/kg
+2024-04-01,Novosibirsk,Tomatoes,181.1,RUB/kg
+2024-05-01,Novosibirsk,Tomatoes,173.7,RUB/kg
+2024-06-01,Novosibirsk,Tomatoes,150.2,RUB/kg
+2024-07-01,Novosibirsk,Tomatoes,134.4,RUB/kg
+2024-08-01,Novosibirsk,Tomatoes,149.7,RUB/kg
+2024-09-01,Novosibirsk,Tomatoes,204.5,RUB/kg
+2024-10-01,Novosibirsk,Tomatoes,185.4,RUB/kg
+2024-11-01,Novosibirsk,Tomatoes,194.8,RUB/kg
+2024-12-01,Novosibirsk,Tomatoes,246.6,RUB/kg
+2025-01-01,Novosibirsk,Tomatoes,262.4,RUB/kg
+2025-02-01,Novosibirsk,Tomatoes,245.7,RUB/kg
+2025-03-01,Novosibirsk,Tomatoes,264.9,RUB/kg
+2025-04-01,Novosibirsk,Tomatoes,181.5,RUB/kg
+2025-05-01,Novosibirsk,Tomatoes,203.1,RUB/kg
+2025-06-01,Novosibirsk,Tomatoes,161.3,RUB/kg
+2025-07-01,Novosibirsk,Tomatoes,164.7,RUB/kg
+2025-08-01,Novosibirsk,Tomatoes,148.6,RUB/kg
+2025-09-01,Novosibirsk,Tomatoes,209.8,RUB/kg
+2025-10-01,Novosibirsk,Tomatoes,199.4,RUB/kg
+2025-11-01,Novosibirsk,Tomatoes,208.5,RUB/kg
+2025-12-01,Novosibirsk,Tomatoes,279.6,RUB/kg
+2026-01-01,Novosibirsk,Tomatoes,263.1,RUB/kg
+2026-02-01,Novosibirsk,Tomatoes,267.0,RUB/kg
+2023-01-01,Novosibirsk,Cucumbers,264.1,RUB/kg
+2023-02-01,Novosibirsk,Cucumbers,282.1,RUB/kg
+2023-03-01,Novosibirsk,Cucumbers,347.6,RUB/kg
+2023-04-01,Novosibirsk,Cucumbers,251.2,RUB/kg
+2023-05-01,Novosibirsk,Cucumbers,227.7,RUB/kg
+2023-06-01,Novosibirsk,Cucumbers,184.5,RUB/kg
+2023-07-01,Novosibirsk,Cucumbers,169.9,RUB/kg
+2023-08-01,Novosibirsk,Cucumbers,194.1,RUB/kg
+2023-09-01,Novosibirsk,Cucumbers,245.7,RUB/kg
+2023-10-01,Novosibirsk,Cucumbers,252.4,RUB/kg
+2023-11-01,Novosibirsk,Cucumbers,245.9,RUB/kg
+2023-12-01,Novosibirsk,Cucumbers,318.0,RUB/kg
+2024-01-01,Novosibirsk,Cucumbers,309.4,RUB/kg
+2024-02-01,Novosibirsk,Cucumbers,326.3,RUB/kg
+2024-03-01,Novosibirsk,Cucumbers,313.9,RUB/kg
+2024-04-01,Novosibirsk,Cucumbers,234.8,RUB/kg
+2024-05-01,Novosibirsk,Cucumbers,243.7,RUB/kg
+2024-06-01,Novosibirsk,Cucumbers,196.8,RUB/kg
+2024-07-01,Novosibirsk,Cucumbers,186.4,RUB/kg
+2024-08-01,Novosibirsk,Cucumbers,234.0,RUB/kg
+2024-09-01,Novosibirsk,Cucumbers,292.6,RUB/kg
+2024-10-01,Novosibirsk,Cucumbers,244.9,RUB/kg
+2024-11-01,Novosibirsk,Cucumbers,261.2,RUB/kg
+2024-12-01,Novosibirsk,Cucumbers,358.3,RUB/kg
+2025-01-01,Novosibirsk,Cucumbers,330.4,RUB/kg
+2025-02-01,Novosibirsk,Cucumbers,341.7,RUB/kg
+2025-03-01,Novosibirsk,Cucumbers,336.9,RUB/kg
+2025-04-01,Novosibirsk,Cucumbers,262.4,RUB/kg
+2025-05-01,Novosibirsk,Cucumbers,277.1,RUB/kg
+2025-06-01,Novosibirsk,Cucumbers,226.6,RUB/kg
+2025-07-01,Novosibirsk,Cucumbers,216.6,RUB/kg
+2025-08-01,Novosibirsk,Cucumbers,219.7,RUB/kg
+2025-09-01,Novosibirsk,Cucumbers,279.5,RUB/kg
+2025-10-01,Novosibirsk,Cucumbers,263.7,RUB/kg
+2025-11-01,Novosibirsk,Cucumbers,294.4,RUB/kg
+2025-12-01,Novosibirsk,Cucumbers,367.8,RUB/kg
+2026-01-01,Novosibirsk,Cucumbers,356.4,RUB/kg
+2026-02-01,Novosibirsk,Cucumbers,388.8,RUB/kg
+2023-01-01,Novosibirsk,Bananas,26.7,RUB/kg
+2023-02-01,Novosibirsk,Bananas,25.5,RUB/kg
+2023-03-01,Novosibirsk,Bananas,31.7,RUB/kg
+2023-04-01,Novosibirsk,Bananas,29.9,RUB/kg
+2023-05-01,Novosibirsk,Bananas,27.1,RUB/kg
+2023-06-01,Novosibirsk,Bananas,26.0,RUB/kg
+2023-07-01,Novosibirsk,Bananas,28.3,RUB/kg
+2023-08-01,Novosibirsk,Bananas,28.6,RUB/kg
+2023-09-01,Novosibirsk,Bananas,28.8,RUB/kg
+2023-10-01,Novosibirsk,Bananas,28.5,RUB/kg
+2023-11-01,Novosibirsk,Bananas,26.9,RUB/kg
+2023-12-01,Novosibirsk,Bananas,28.4,RUB/kg
+2024-01-01,Novosibirsk,Bananas,27.9,RUB/kg
+2024-02-01,Novosibirsk,Bananas,29.3,RUB/kg
+2024-03-01,Novosibirsk,Bananas,29.4,RUB/kg
+2024-04-01,Novosibirsk,Bananas,28.1,RUB/kg
+2024-05-01,Novosibirsk,Bananas,30.9,RUB/kg
+2024-06-01,Novosibirsk,Bananas,30.4,RUB/kg
+2024-07-01,Novosibirsk,Bananas,29.5,RUB/kg
+2024-08-01,Novosibirsk,Bananas,34.7,RUB/kg
+2024-09-01,Novosibirsk,Bananas,34.3,RUB/kg
+2024-10-01,Novosibirsk,Bananas,31.5,RUB/kg
+2024-11-01,Novosibirsk,Bananas,31.4,RUB/kg
+2024-12-01,Novosibirsk,Bananas,31.9,RUB/kg
+2025-01-01,Novosibirsk,Bananas,29.5,RUB/kg
+2025-02-01,Novosibirsk,Bananas,30.0,RUB/kg
+2025-03-01,Novosibirsk,Bananas,32.0,RUB/kg
+2025-04-01,Novosibirsk,Bananas,32.8,RUB/kg
+2025-05-01,Novosibirsk,Bananas,33.9,RUB/kg
+2025-06-01,Novosibirsk,Bananas,32.3,RUB/kg
+2025-07-01,Novosibirsk,Bananas,31.8,RUB/kg
+2025-08-01,Novosibirsk,Bananas,32.7,RUB/kg
+2025-09-01,Novosibirsk,Bananas,32.3,RUB/kg
+2025-10-01,Novosibirsk,Bananas,33.4,RUB/kg
+2025-11-01,Novosibirsk,Bananas,34.6,RUB/kg
+2025-12-01,Novosibirsk,Bananas,35.1,RUB/kg
+2026-01-01,Novosibirsk,Bananas,35.3,RUB/kg
+2026-02-01,Novosibirsk,Bananas,32.3,RUB/kg
+2023-01-01,Novosibirsk,Chicken Breast,286.5,RUB/kg
+2023-02-01,Novosibirsk,Chicken Breast,293.1,RUB/kg
+2023-03-01,Novosibirsk,Chicken Breast,331.5,RUB/kg
+2023-04-01,Novosibirsk,Chicken Breast,336.8,RUB/kg
+2023-05-01,Novosibirsk,Chicken Breast,297.7,RUB/kg
+2023-06-01,Novosibirsk,Chicken Breast,291.5,RUB/kg
+2023-07-01,Novosibirsk,Chicken Breast,277.6,RUB/kg
+2023-08-01,Novosibirsk,Chicken Breast,296.0,RUB/kg
+2023-09-01,Novosibirsk,Chicken Breast,296.9,RUB/kg
+2023-10-01,Novosibirsk,Chicken Breast,303.8,RUB/kg
+2023-11-01,Novosibirsk,Chicken Breast,317.4,RUB/kg
+2023-12-01,Novosibirsk,Chicken Breast,305.9,RUB/kg
+2024-01-01,Novosibirsk,Chicken Breast,307.9,RUB/kg
+2024-02-01,Novosibirsk,Chicken Breast,306.9,RUB/kg
+2024-03-01,Novosibirsk,Chicken Breast,302.8,RUB/kg
+2024-04-01,Novosibirsk,Chicken Breast,303.0,RUB/kg
+2024-05-01,Novosibirsk,Chicken Breast,318.9,RUB/kg
+2024-06-01,Novosibirsk,Chicken Breast,324.9,RUB/kg
+2024-07-01,Novosibirsk,Chicken Breast,312.0,RUB/kg
+2024-08-01,Novosibirsk,Chicken Breast,362.5,RUB/kg
+2024-09-01,Novosibirsk,Chicken Breast,364.2,RUB/kg
+2024-10-01,Novosibirsk,Chicken Breast,314.0,RUB/kg
+2024-11-01,Novosibirsk,Chicken Breast,341.8,RUB/kg
+2024-12-01,Novosibirsk,Chicken Breast,336.8,RUB/kg
+2025-01-01,Novosibirsk,Chicken Breast,322.7,RUB/kg
+2025-02-01,Novosibirsk,Chicken Breast,350.6,RUB/kg
+2025-03-01,Novosibirsk,Chicken Breast,345.2,RUB/kg
+2025-04-01,Novosibirsk,Chicken Breast,355.8,RUB/kg
+2025-05-01,Novosibirsk,Chicken Breast,357.2,RUB/kg
+2025-06-01,Novosibirsk,Chicken Breast,407.2,RUB/kg
+2025-07-01,Novosibirsk,Chicken Breast,392.5,RUB/kg
+2025-08-01,Novosibirsk,Chicken Breast,344.8,RUB/kg
+2025-09-01,Novosibirsk,Chicken Breast,366.2,RUB/kg
+2025-10-01,Novosibirsk,Chicken Breast,370.4,RUB/kg
+2025-11-01,Novosibirsk,Chicken Breast,356.7,RUB/kg
+2025-12-01,Novosibirsk,Chicken Breast,373.9,RUB/kg
+2026-01-01,Novosibirsk,Chicken Breast,371.1,RUB/kg
+2026-02-01,Novosibirsk,Chicken Breast,389.8,RUB/kg
+2023-01-01,Yekaterinburg,Bread,62.0,RUB/kg
+2023-02-01,Yekaterinburg,Bread,61.2,RUB/kg
+2023-03-01,Yekaterinburg,Bread,71.0,RUB/kg
+2023-04-01,Yekaterinburg,Bread,74.7,RUB/kg
+2023-05-01,Yekaterinburg,Bread,64.9,RUB/kg
+2023-06-01,Yekaterinburg,Bread,66.7,RUB/kg
+2023-07-01,Yekaterinburg,Bread,65.8,RUB/kg
+2023-08-01,Yekaterinburg,Bread,67.5,RUB/kg
+2023-09-01,Yekaterinburg,Bread,68.2,RUB/kg
+2023-10-01,Yekaterinburg,Bread,68.3,RUB/kg
+2023-11-01,Yekaterinburg,Bread,68.4,RUB/kg
+2023-12-01,Yekaterinburg,Bread,70.9,RUB/kg
+2024-01-01,Yekaterinburg,Bread,71.5,RUB/kg
+2024-02-01,Yekaterinburg,Bread,67.6,RUB/kg
+2024-03-01,Yekaterinburg,Bread,72.5,RUB/kg
+2024-04-01,Yekaterinburg,Bread,73.3,RUB/kg
+2024-05-01,Yekaterinburg,Bread,72.7,RUB/kg
+2024-06-01,Yekaterinburg,Bread,70.1,RUB/kg
+2024-07-01,Yekaterinburg,Bread,73.4,RUB/kg
+2024-08-01,Yekaterinburg,Bread,80.8,RUB/kg
+2024-09-01,Yekaterinburg,Bread,80.1,RUB/kg
+2024-10-01,Yekaterinburg,Bread,70.6,RUB/kg
+2024-11-01,Yekaterinburg,Bread,73.9,RUB/kg
+2024-12-01,Yekaterinburg,Bread,76.1,RUB/kg
+2025-01-01,Yekaterinburg,Bread,79.7,RUB/kg
+2025-02-01,Yekaterinburg,Bread,74.4,RUB/kg
+2025-03-01,Yekaterinburg,Bread,73.2,RUB/kg
+2025-04-01,Yekaterinburg,Bread,77.4,RUB/kg
+2025-05-01,Yekaterinburg,Bread,76.7,RUB/kg
+2025-06-01,Yekaterinburg,Bread,79.3,RUB/kg
+2025-07-01,Yekaterinburg,Bread,77.3,RUB/kg
+2025-08-01,Yekaterinburg,Bread,82.2,RUB/kg
+2025-09-01,Yekaterinburg,Bread,82.1,RUB/kg
+2025-10-01,Yekaterinburg,Bread,79.2,RUB/kg
+2025-11-01,Yekaterinburg,Bread,80.5,RUB/kg
+2025-12-01,Yekaterinburg,Bread,83.6,RUB/kg
+2026-01-01,Yekaterinburg,Bread,80.2,RUB/kg
+2026-02-01,Yekaterinburg,Bread,83.0,RUB/kg
+2023-01-01,Yekaterinburg,Milk,84.2,RUB/l
+2023-02-01,Yekaterinburg,Milk,91.2,RUB/l
+2023-03-01,Yekaterinburg,Milk,97.1,RUB/l
+2023-04-01,Yekaterinburg,Milk,106.2,RUB/l
+2023-05-01,Yekaterinburg,Milk,93.4,RUB/l
+2023-06-01,Yekaterinburg,Milk,86.8,RUB/l
+2023-07-01,Yekaterinburg,Milk,90.1,RUB/l
+2023-08-01,Yekaterinburg,Milk,88.7,RUB/l
+2023-09-01,Yekaterinburg,Milk,89.2,RUB/l
+2023-10-01,Yekaterinburg,Milk,95.6,RUB/l
+2023-11-01,Yekaterinburg,Milk,91.2,RUB/l
+2023-12-01,Yekaterinburg,Milk,94.8,RUB/l
+2024-01-01,Yekaterinburg,Milk,94.0,RUB/l
+2024-02-01,Yekaterinburg,Milk,96.2,RUB/l
+2024-03-01,Yekaterinburg,Milk,92.4,RUB/l
+2024-04-01,Yekaterinburg,Milk,94.5,RUB/l
+2024-05-01,Yekaterinburg,Milk,94.8,RUB/l
+2024-06-01,Yekaterinburg,Milk,101.5,RUB/l
+2024-07-01,Yekaterinburg,Milk,101.4,RUB/l
+2024-08-01,Yekaterinburg,Milk,110.7,RUB/l
+2024-09-01,Yekaterinburg,Milk,113.4,RUB/l
+2024-10-01,Yekaterinburg,Milk,99.9,RUB/l
+2024-11-01,Yekaterinburg,Milk,102.3,RUB/l
+2024-12-01,Yekaterinburg,Milk,107.3,RUB/l
+2025-01-01,Yekaterinburg,Milk,102.9,RUB/l
+2025-02-01,Yekaterinburg,Milk,103.5,RUB/l
+2025-03-01,Yekaterinburg,Milk,111.5,RUB/l
+2025-04-01,Yekaterinburg,Milk,104.7,RUB/l
+2025-05-01,Yekaterinburg,Milk,113.0,RUB/l
+2025-06-01,Yekaterinburg,Milk,124.4,RUB/l
+2025-07-01,Yekaterinburg,Milk,121.5,RUB/l
+2025-08-01,Yekaterinburg,Milk,111.4,RUB/l
+2025-09-01,Yekaterinburg,Milk,109.7,RUB/l
+2025-10-01,Yekaterinburg,Milk,116.3,RUB/l
+2025-11-01,Yekaterinburg,Milk,108.1,RUB/l
+2025-12-01,Yekaterinburg,Milk,106.4,RUB/l
+2026-01-01,Yekaterinburg,Milk,110.3,RUB/l
+2026-02-01,Yekaterinburg,Milk,113.6,RUB/l
+2023-01-01,Yekaterinburg,Eggs,93.0,RUB/10pcs
+2023-02-01,Yekaterinburg,Eggs,79.0,RUB/10pcs
+2023-03-01,Yekaterinburg,Eggs,99.5,RUB/10pcs
+2023-04-01,Yekaterinburg,Eggs,90.2,RUB/10pcs
+2023-05-01,Yekaterinburg,Eggs,76.0,RUB/10pcs
+2023-06-01,Yekaterinburg,Eggs,78.4,RUB/10pcs
+2023-07-01,Yekaterinburg,Eggs,78.4,RUB/10pcs
+2023-08-01,Yekaterinburg,Eggs,87.9,RUB/10pcs
+2023-09-01,Yekaterinburg,Eggs,83.1,RUB/10pcs
+2023-10-01,Yekaterinburg,Eggs,80.8,RUB/10pcs
+2023-11-01,Yekaterinburg,Eggs,83.2,RUB/10pcs
+2023-12-01,Yekaterinburg,Eggs,93.2,RUB/10pcs
+2024-01-01,Yekaterinburg,Eggs,97.9,RUB/10pcs
+2024-02-01,Yekaterinburg,Eggs,91.3,RUB/10pcs
+2024-03-01,Yekaterinburg,Eggs,82.9,RUB/10pcs
+2024-04-01,Yekaterinburg,Eggs,89.9,RUB/10pcs
+2024-05-01,Yekaterinburg,Eggs,87.4,RUB/10pcs
+2024-06-01,Yekaterinburg,Eggs,83.4,RUB/10pcs
+2024-07-01,Yekaterinburg,Eggs,92.8,RUB/10pcs
+2024-08-01,Yekaterinburg,Eggs,99.8,RUB/10pcs
+2024-09-01,Yekaterinburg,Eggs,101.3,RUB/10pcs
+2024-10-01,Yekaterinburg,Eggs,91.3,RUB/10pcs
+2024-11-01,Yekaterinburg,Eggs,92.7,RUB/10pcs
+2024-12-01,Yekaterinburg,Eggs,108.4,RUB/10pcs
+2025-01-01,Yekaterinburg,Eggs,104.5,RUB/10pcs
+2025-02-01,Yekaterinburg,Eggs,90.8,RUB/10pcs
+2025-03-01,Yekaterinburg,Eggs,95.9,RUB/10pcs
+2025-04-01,Yekaterinburg,Eggs,91.4,RUB/10pcs
+2025-05-01,Yekaterinburg,Eggs,93.9,RUB/10pcs
+2025-06-01,Yekaterinburg,Eggs,95.2,RUB/10pcs
+2025-07-01,Yekaterinburg,Eggs,94.2,RUB/10pcs
+2025-08-01,Yekaterinburg,Eggs,101.6,RUB/10pcs
+2025-09-01,Yekaterinburg,Eggs,99.4,RUB/10pcs
+2025-10-01,Yekaterinburg,Eggs,95.7,RUB/10pcs
+2025-11-01,Yekaterinburg,Eggs,106.1,RUB/10pcs
+2025-12-01,Yekaterinburg,Eggs,119.1,RUB/10pcs
+2026-01-01,Yekaterinburg,Eggs,121.4,RUB/10pcs
+2026-02-01,Yekaterinburg,Eggs,97.5,RUB/10pcs
+2023-01-01,Yekaterinburg,Tomatoes,204.5,RUB/kg
+2023-02-01,Yekaterinburg,Tomatoes,211.2,RUB/kg
+2023-03-01,Yekaterinburg,Tomatoes,242.7,RUB/kg
+2023-04-01,Yekaterinburg,Tomatoes,204.8,RUB/kg
+2023-05-01,Yekaterinburg,Tomatoes,167.4,RUB/kg
+2023-06-01,Yekaterinburg,Tomatoes,136.4,RUB/kg
+2023-07-01,Yekaterinburg,Tomatoes,141.1,RUB/kg
+2023-08-01,Yekaterinburg,Tomatoes,131.5,RUB/kg
+2023-09-01,Yekaterinburg,Tomatoes,174.5,RUB/kg
+2023-10-01,Yekaterinburg,Tomatoes,172.9,RUB/kg
+2023-11-01,Yekaterinburg,Tomatoes,164.8,RUB/kg
+2023-12-01,Yekaterinburg,Tomatoes,229.5,RUB/kg
+2024-01-01,Yekaterinburg,Tomatoes,210.5,RUB/kg
+2024-02-01,Yekaterinburg,Tomatoes,212.2,RUB/kg
+2024-03-01,Yekaterinburg,Tomatoes,235.1,RUB/kg
+2024-04-01,Yekaterinburg,Tomatoes,184.5,RUB/kg
+2024-05-01,Yekaterinburg,Tomatoes,171.6,RUB/kg
+2024-06-01,Yekaterinburg,Tomatoes,142.7,RUB/kg
+2024-07-01,Yekaterinburg,Tomatoes,142.4,RUB/kg
+2024-08-01,Yekaterinburg,Tomatoes,167.3,RUB/kg
+2024-09-01,Yekaterinburg,Tomatoes,206.1,RUB/kg
+2024-10-01,Yekaterinburg,Tomatoes,169.7,RUB/kg
+2024-11-01,Yekaterinburg,Tomatoes,194.5,RUB/kg
+2024-12-01,Yekaterinburg,Tomatoes,237.6,RUB/kg
+2025-01-01,Yekaterinburg,Tomatoes,239.6,RUB/kg
+2025-02-01,Yekaterinburg,Tomatoes,248.4,RUB/kg
+2025-03-01,Yekaterinburg,Tomatoes,238.7,RUB/kg
+2025-04-01,Yekaterinburg,Tomatoes,194.6,RUB/kg
+2025-05-01,Yekaterinburg,Tomatoes,201.0,RUB/kg
+2025-06-01,Yekaterinburg,Tomatoes,159.2,RUB/kg
+2025-07-01,Yekaterinburg,Tomatoes,150.4,RUB/kg
+2025-08-01,Yekaterinburg,Tomatoes,152.4,RUB/kg
+2025-09-01,Yekaterinburg,Tomatoes,191.9,RUB/kg
+2025-10-01,Yekaterinburg,Tomatoes,198.5,RUB/kg
+2025-11-01,Yekaterinburg,Tomatoes,225.0,RUB/kg
+2025-12-01,Yekaterinburg,Tomatoes,271.0,RUB/kg
+2026-01-01,Yekaterinburg,Tomatoes,280.9,RUB/kg
+2026-02-01,Yekaterinburg,Tomatoes,290.4,RUB/kg
+2023-01-01,Yekaterinburg,Cucumbers,210.5,RUB/kg
+2023-02-01,Yekaterinburg,Cucumbers,200.7,RUB/kg
+2023-03-01,Yekaterinburg,Cucumbers,242.7,RUB/kg
+2023-04-01,Yekaterinburg,Cucumbers,196.8,RUB/kg
+2023-05-01,Yekaterinburg,Cucumbers,178.0,RUB/kg
+2023-06-01,Yekaterinburg,Cucumbers,135.6,RUB/kg
+2023-07-01,Yekaterinburg,Cucumbers,127.7,RUB/kg
+2023-08-01,Yekaterinburg,Cucumbers,124.4,RUB/kg
+2023-09-01,Yekaterinburg,Cucumbers,179.4,RUB/kg
+2023-10-01,Yekaterinburg,Cucumbers,174.0,RUB/kg
+2023-11-01,Yekaterinburg,Cucumbers,173.7,RUB/kg
+2023-12-01,Yekaterinburg,Cucumbers,221.8,RUB/kg
+2024-01-01,Yekaterinburg,Cucumbers,235.8,RUB/kg
+2024-02-01,Yekaterinburg,Cucumbers,224.6,RUB/kg
+2024-03-01,Yekaterinburg,Cucumbers,236.7,RUB/kg
+2024-04-01,Yekaterinburg,Cucumbers,183.8,RUB/kg
+2024-05-01,Yekaterinburg,Cucumbers,182.4,RUB/kg
+2024-06-01,Yekaterinburg,Cucumbers,137.9,RUB/kg
+2024-07-01,Yekaterinburg,Cucumbers,146.5,RUB/kg
+2024-08-01,Yekaterinburg,Cucumbers,167.2,RUB/kg
+2024-09-01,Yekaterinburg,Cucumbers,209.1,RUB/kg
+2024-10-01,Yekaterinburg,Cucumbers,192.8,RUB/kg
+2024-11-01,Yekaterinburg,Cucumbers,185.9,RUB/kg
+2024-12-01,Yekaterinburg,Cucumbers,237.2,RUB/kg
+2025-01-01,Yekaterinburg,Cucumbers,247.8,RUB/kg
+2025-02-01,Yekaterinburg,Cucumbers,247.2,RUB/kg
+2025-03-01,Yekaterinburg,Cucumbers,257.2,RUB/kg
+2025-04-01,Yekaterinburg,Cucumbers,205.6,RUB/kg
+2025-05-01,Yekaterinburg,Cucumbers,195.8,RUB/kg
+2025-06-01,Yekaterinburg,Cucumbers,145.5,RUB/kg
+2025-07-01,Yekaterinburg,Cucumbers,156.9,RUB/kg
+2025-08-01,Yekaterinburg,Cucumbers,158.0,RUB/kg
+2025-09-01,Yekaterinburg,Cucumbers,190.3,RUB/kg
+2025-10-01,Yekaterinburg,Cucumbers,206.6,RUB/kg
+2025-11-01,Yekaterinburg,Cucumbers,208.9,RUB/kg
+2025-12-01,Yekaterinburg,Cucumbers,269.0,RUB/kg
+2026-01-01,Yekaterinburg,Cucumbers,291.1,RUB/kg
+2026-02-01,Yekaterinburg,Cucumbers,277.0,RUB/kg
+2023-01-01,Yekaterinburg,Bananas,26.2,RUB/kg
+2023-02-01,Yekaterinburg,Bananas,26.3,RUB/kg
+2023-03-01,Yekaterinburg,Bananas,31.6,RUB/kg
+2023-04-01,Yekaterinburg,Bananas,29.2,RUB/kg
+2023-05-01,Yekaterinburg,Bananas,28.5,RUB/kg
+2023-06-01,Yekaterinburg,Bananas,28.0,RUB/kg
+2023-07-01,Yekaterinburg,Bananas,28.0,RUB/kg
+2023-08-01,Yekaterinburg,Bananas,27.6,RUB/kg
+2023-09-01,Yekaterinburg,Bananas,27.0,RUB/kg
+2023-10-01,Yekaterinburg,Bananas,28.0,RUB/kg
+2023-11-01,Yekaterinburg,Bananas,28.7,RUB/kg
+2023-12-01,Yekaterinburg,Bananas,28.3,RUB/kg
+2024-01-01,Yekaterinburg,Bananas,27.9,RUB/kg
+2024-02-01,Yekaterinburg,Bananas,28.0,RUB/kg
+2024-03-01,Yekaterinburg,Bananas,29.7,RUB/kg
+2024-04-01,Yekaterinburg,Bananas,29.1,RUB/kg
+2024-05-01,Yekaterinburg,Bananas,30.5,RUB/kg
+2024-06-01,Yekaterinburg,Bananas,29.5,RUB/kg
+2024-07-01,Yekaterinburg,Bananas,28.4,RUB/kg
+2024-08-01,Yekaterinburg,Bananas,33.5,RUB/kg
+2024-09-01,Yekaterinburg,Bananas,32.7,RUB/kg
+2024-10-01,Yekaterinburg,Bananas,30.6,RUB/kg
+2024-11-01,Yekaterinburg,Bananas,31.0,RUB/kg
+2024-12-01,Yekaterinburg,Bananas,32.3,RUB/kg
+2025-01-01,Yekaterinburg,Bananas,32.5,RUB/kg
+2025-02-01,Yekaterinburg,Bananas,31.0,RUB/kg
+2025-03-01,Yekaterinburg,Bananas,31.7,RUB/kg
+2025-04-01,Yekaterinburg,Bananas,29.9,RUB/kg
+2025-05-01,Yekaterinburg,Bananas,31.6,RUB/kg
+2025-06-01,Yekaterinburg,Bananas,33.1,RUB/kg
+2025-07-01,Yekaterinburg,Bananas,33.8,RUB/kg
+2025-08-01,Yekaterinburg,Bananas,32.2,RUB/kg
+2025-09-01,Yekaterinburg,Bananas,31.6,RUB/kg
+2025-10-01,Yekaterinburg,Bananas,35.3,RUB/kg
+2025-11-01,Yekaterinburg,Bananas,32.4,RUB/kg
+2025-12-01,Yekaterinburg,Bananas,34.2,RUB/kg
+2026-01-01,Yekaterinburg,Bananas,35.2,RUB/kg
+2026-02-01,Yekaterinburg,Bananas,34.7,RUB/kg
+2023-01-01,Yekaterinburg,Chicken Breast,289.5,RUB/kg
+2023-02-01,Yekaterinburg,Chicken Breast,291.7,RUB/kg
+2023-03-01,Yekaterinburg,Chicken Breast,323.7,RUB/kg
+2023-04-01,Yekaterinburg,Chicken Breast,324.1,RUB/kg
+2023-05-01,Yekaterinburg,Chicken Breast,298.1,RUB/kg
+2023-06-01,Yekaterinburg,Chicken Breast,296.0,RUB/kg
+2023-07-01,Yekaterinburg,Chicken Breast,300.2,RUB/kg
+2023-08-01,Yekaterinburg,Chicken Breast,301.5,RUB/kg
+2023-09-01,Yekaterinburg,Chicken Breast,297.2,RUB/kg
+2023-10-01,Yekaterinburg,Chicken Breast,309.0,RUB/kg
+2023-11-01,Yekaterinburg,Chicken Breast,307.8,RUB/kg
+2023-12-01,Yekaterinburg,Chicken Breast,312.3,RUB/kg
+2024-01-01,Yekaterinburg,Chicken Breast,302.0,RUB/kg
+2024-02-01,Yekaterinburg,Chicken Breast,319.0,RUB/kg
+2024-03-01,Yekaterinburg,Chicken Breast,309.6,RUB/kg
+2024-04-01,Yekaterinburg,Chicken Breast,322.4,RUB/kg
+2024-05-01,Yekaterinburg,Chicken Breast,325.7,RUB/kg
+2024-06-01,Yekaterinburg,Chicken Breast,315.5,RUB/kg
+2024-07-01,Yekaterinburg,Chicken Breast,334.3,RUB/kg
+2024-08-01,Yekaterinburg,Chicken Breast,346.3,RUB/kg
+2024-09-01,Yekaterinburg,Chicken Breast,370.1,RUB/kg
+2024-10-01,Yekaterinburg,Chicken Breast,309.7,RUB/kg
+2024-11-01,Yekaterinburg,Chicken Breast,325.2,RUB/kg
+2024-12-01,Yekaterinburg,Chicken Breast,320.9,RUB/kg
+2025-01-01,Yekaterinburg,Chicken Breast,330.1,RUB/kg
+2025-02-01,Yekaterinburg,Chicken Breast,338.9,RUB/kg
+2025-03-01,Yekaterinburg,Chicken Breast,329.2,RUB/kg
+2025-04-01,Yekaterinburg,Chicken Breast,339.6,RUB/kg
+2025-05-01,Yekaterinburg,Chicken Breast,341.2,RUB/kg
+2025-06-01,Yekaterinburg,Chicken Breast,379.2,RUB/kg
+2025-07-01,Yekaterinburg,Chicken Breast,432.7,RUB/kg
+2025-08-01,Yekaterinburg,Chicken Breast,348.0,RUB/kg
+2025-09-01,Yekaterinburg,Chicken Breast,345.7,RUB/kg
+2025-10-01,Yekaterinburg,Chicken Breast,356.7,RUB/kg
+2025-11-01,Yekaterinburg,Chicken Breast,352.6,RUB/kg
+2025-12-01,Yekaterinburg,Chicken Breast,364.5,RUB/kg
+2026-01-01,Yekaterinburg,Chicken Breast,352.9,RUB/kg
+2026-02-01,Yekaterinburg,Chicken Breast,370.2,RUB/kg
+2023-01-01,Kazan,Bread,61.9,RUB/kg
+2023-02-01,Kazan,Bread,61.1,RUB/kg
+2023-03-01,Kazan,Bread,75.1,RUB/kg
+2023-04-01,Kazan,Bread,73.9,RUB/kg
+2023-05-01,Kazan,Bread,68.1,RUB/kg
+2023-06-01,Kazan,Bread,65.4,RUB/kg
+2023-07-01,Kazan,Bread,67.6,RUB/kg
+2023-08-01,Kazan,Bread,64.3,RUB/kg
+2023-09-01,Kazan,Bread,71.4,RUB/kg
+2023-10-01,Kazan,Bread,67.7,RUB/kg
+2023-11-01,Kazan,Bread,68.3,RUB/kg
+2023-12-01,Kazan,Bread,66.8,RUB/kg
+2024-01-01,Kazan,Bread,69.7,RUB/kg
+2024-02-01,Kazan,Bread,68.2,RUB/kg
+2024-03-01,Kazan,Bread,70.7,RUB/kg
+2024-04-01,Kazan,Bread,71.6,RUB/kg
+2024-05-01,Kazan,Bread,72.8,RUB/kg
+2024-06-01,Kazan,Bread,72.2,RUB/kg
+2024-07-01,Kazan,Bread,72.4,RUB/kg
+2024-08-01,Kazan,Bread,83.8,RUB/kg
+2024-09-01,Kazan,Bread,81.0,RUB/kg
+2024-10-01,Kazan,Bread,75.8,RUB/kg
+2024-11-01,Kazan,Bread,73.1,RUB/kg
+2024-12-01,Kazan,Bread,77.0,RUB/kg
+2025-01-01,Kazan,Bread,75.1,RUB/kg
+2025-02-01,Kazan,Bread,79.1,RUB/kg
+2025-03-01,Kazan,Bread,78.6,RUB/kg
+2025-04-01,Kazan,Bread,78.9,RUB/kg
+2025-05-01,Kazan,Bread,78.8,RUB/kg
+2025-06-01,Kazan,Bread,78.0,RUB/kg
+2025-07-01,Kazan,Bread,78.7,RUB/kg
+2025-08-01,Kazan,Bread,77.3,RUB/kg
+2025-09-01,Kazan,Bread,83.6,RUB/kg
+2025-10-01,Kazan,Bread,81.9,RUB/kg
+2025-11-01,Kazan,Bread,83.1,RUB/kg
+2025-12-01,Kazan,Bread,78.0,RUB/kg
+2026-01-01,Kazan,Bread,82.7,RUB/kg
+2026-02-01,Kazan,Bread,84.1,RUB/kg
+2023-01-01,Kazan,Milk,114.0,RUB/l
+2023-02-01,Kazan,Milk,119.0,RUB/l
+2023-03-01,Kazan,Milk,129.7,RUB/l
+2023-04-01,Kazan,Milk,134.8,RUB/l
+2023-05-01,Kazan,Milk,120.2,RUB/l
+2023-06-01,Kazan,Milk,115.4,RUB/l
+2023-07-01,Kazan,Milk,117.5,RUB/l
+2023-08-01,Kazan,Milk,121.2,RUB/l
+2023-09-01,Kazan,Milk,124.0,RUB/l
+2023-10-01,Kazan,Milk,120.1,RUB/l
+2023-11-01,Kazan,Milk,122.8,RUB/l
+2023-12-01,Kazan,Milk,129.4,RUB/l
+2024-01-01,Kazan,Milk,124.1,RUB/l
+2024-02-01,Kazan,Milk,128.2,RUB/l
+2024-03-01,Kazan,Milk,122.2,RUB/l
+2024-04-01,Kazan,Milk,134.3,RUB/l
+2024-05-01,Kazan,Milk,127.0,RUB/l
+2024-06-01,Kazan,Milk,130.0,RUB/l
+2024-07-01,Kazan,Milk,126.5,RUB/l
+2024-08-01,Kazan,Milk,145.7,RUB/l
+2024-09-01,Kazan,Milk,147.8,RUB/l
+2024-10-01,Kazan,Milk,140.4,RUB/l
+2024-11-01,Kazan,Milk,128.2,RUB/l
+2024-12-01,Kazan,Milk,136.6,RUB/l
+2025-01-01,Kazan,Milk,136.1,RUB/l
+2025-02-01,Kazan,Milk,141.1,RUB/l
+2025-03-01,Kazan,Milk,141.9,RUB/l
+2025-04-01,Kazan,Milk,143.3,RUB/l
+2025-05-01,Kazan,Milk,141.2,RUB/l
+2025-06-01,Kazan,Milk,169.6,RUB/l
+2025-07-01,Kazan,Milk,163.5,RUB/l
+2025-08-01,Kazan,Milk,137.7,RUB/l
+2025-09-01,Kazan,Milk,141.0,RUB/l
+2025-10-01,Kazan,Milk,147.1,RUB/l
+2025-11-01,Kazan,Milk,147.9,RUB/l
+2025-12-01,Kazan,Milk,145.3,RUB/l
+2026-01-01,Kazan,Milk,149.8,RUB/l
+2026-02-01,Kazan,Milk,155.7,RUB/l
+2023-01-01,Kazan,Eggs,94.6,RUB/10pcs
+2023-02-01,Kazan,Eggs,76.7,RUB/10pcs
+2023-03-01,Kazan,Eggs,87.5,RUB/10pcs
+2023-04-01,Kazan,Eggs,85.7,RUB/10pcs
+2023-05-01,Kazan,Eggs,86.5,RUB/10pcs
+2023-06-01,Kazan,Eggs,81.5,RUB/10pcs
+2023-07-01,Kazan,Eggs,83.0,RUB/10pcs
+2023-08-01,Kazan,Eggs,85.4,RUB/10pcs
+2023-09-01,Kazan,Eggs,76.8,RUB/10pcs
+2023-10-01,Kazan,Eggs,84.7,RUB/10pcs
+2023-11-01,Kazan,Eggs,82.9,RUB/10pcs
+2023-12-01,Kazan,Eggs,94.8,RUB/10pcs
+2024-01-01,Kazan,Eggs,102.9,RUB/10pcs
+2024-02-01,Kazan,Eggs,84.2,RUB/10pcs
+2024-03-01,Kazan,Eggs,85.6,RUB/10pcs
+2024-04-01,Kazan,Eggs,89.6,RUB/10pcs
+2024-05-01,Kazan,Eggs,87.9,RUB/10pcs
+2024-06-01,Kazan,Eggs,91.4,RUB/10pcs
+2024-07-01,Kazan,Eggs,91.2,RUB/10pcs
+2024-08-01,Kazan,Eggs,104.6,RUB/10pcs
+2024-09-01,Kazan,Eggs,104.9,RUB/10pcs
+2024-10-01,Kazan,Eggs,94.2,RUB/10pcs
+2024-11-01,Kazan,Eggs,99.2,RUB/10pcs
+2024-12-01,Kazan,Eggs,107.3,RUB/10pcs
+2025-01-01,Kazan,Eggs,107.5,RUB/10pcs
+2025-02-01,Kazan,Eggs,97.6,RUB/10pcs
+2025-03-01,Kazan,Eggs,89.4,RUB/10pcs
+2025-04-01,Kazan,Eggs,91.0,RUB/10pcs
+2025-05-01,Kazan,Eggs,91.4,RUB/10pcs
+2025-06-01,Kazan,Eggs,95.6,RUB/10pcs
+2025-07-01,Kazan,Eggs,98.0,RUB/10pcs
+2025-08-01,Kazan,Eggs,95.0,RUB/10pcs
+2025-09-01,Kazan,Eggs,107.2,RUB/10pcs
+2025-10-01,Kazan,Eggs,98.9,RUB/10pcs
+2025-11-01,Kazan,Eggs,108.3,RUB/10pcs
+2025-12-01,Kazan,Eggs,126.3,RUB/10pcs
+2026-01-01,Kazan,Eggs,118.2,RUB/10pcs
+2026-02-01,Kazan,Eggs,105.1,RUB/10pcs
+2023-01-01,Kazan,Tomatoes,217.4,RUB/kg
+2023-02-01,Kazan,Tomatoes,217.7,RUB/kg
+2023-03-01,Kazan,Tomatoes,239.8,RUB/kg
+2023-04-01,Kazan,Tomatoes,186.5,RUB/kg
+2023-05-01,Kazan,Tomatoes,168.4,RUB/kg
+2023-06-01,Kazan,Tomatoes,127.6,RUB/kg
+2023-07-01,Kazan,Tomatoes,136.3,RUB/kg
+2023-08-01,Kazan,Tomatoes,137.1,RUB/kg
+2023-09-01,Kazan,Tomatoes,161.0,RUB/kg
+2023-10-01,Kazan,Tomatoes,180.3,RUB/kg
+2023-11-01,Kazan,Tomatoes,173.7,RUB/kg
+2023-12-01,Kazan,Tomatoes,213.3,RUB/kg
+2024-01-01,Kazan,Tomatoes,222.1,RUB/kg
+2024-02-01,Kazan,Tomatoes,221.0,RUB/kg
+2024-03-01,Kazan,Tomatoes,229.6,RUB/kg
+2024-04-01,Kazan,Tomatoes,175.9,RUB/kg
+2024-05-01,Kazan,Tomatoes,181.9,RUB/kg
+2024-06-01,Kazan,Tomatoes,141.1,RUB/kg
+2024-07-01,Kazan,Tomatoes,130.5,RUB/kg
+2024-08-01,Kazan,Tomatoes,161.6,RUB/kg
+2024-09-01,Kazan,Tomatoes,210.2,RUB/kg
+2024-10-01,Kazan,Tomatoes,195.0,RUB/kg
+2024-11-01,Kazan,Tomatoes,188.2,RUB/kg
+2024-12-01,Kazan,Tomatoes,243.1,RUB/kg
+2025-01-01,Kazan,Tomatoes,255.0,RUB/kg
+2025-02-01,Kazan,Tomatoes,248.7,RUB/kg
+2025-03-01,Kazan,Tomatoes,255.6,RUB/kg
+2025-04-01,Kazan,Tomatoes,184.7,RUB/kg
+2025-05-01,Kazan,Tomatoes,194.7,RUB/kg
+2025-06-01,Kazan,Tomatoes,151.9,RUB/kg
+2025-07-01,Kazan,Tomatoes,153.9,RUB/kg
+2025-08-01,Kazan,Tomatoes,152.4,RUB/kg
+2025-09-01,Kazan,Tomatoes,198.0,RUB/kg
+2025-10-01,Kazan,Tomatoes,193.1,RUB/kg
+2025-11-01,Kazan,Tomatoes,224.4,RUB/kg
+2025-12-01,Kazan,Tomatoes,258.5,RUB/kg
+2026-01-01,Kazan,Tomatoes,255.2,RUB/kg
+2026-02-01,Kazan,Tomatoes,271.0,RUB/kg
+2023-01-01,Kazan,Cucumbers,287.9,RUB/kg
+2023-02-01,Kazan,Cucumbers,281.7,RUB/kg
+2023-03-01,Kazan,Cucumbers,341.2,RUB/kg
+2023-04-01,Kazan,Cucumbers,240.3,RUB/kg
+2023-05-01,Kazan,Cucumbers,231.3,RUB/kg
+2023-06-01,Kazan,Cucumbers,185.7,RUB/kg
+2023-07-01,Kazan,Cucumbers,171.1,RUB/kg
+2023-08-01,Kazan,Cucumbers,191.1,RUB/kg
+2023-09-01,Kazan,Cucumbers,213.2,RUB/kg
+2023-10-01,Kazan,Cucumbers,246.6,RUB/kg
+2023-11-01,Kazan,Cucumbers,242.5,RUB/kg
+2023-12-01,Kazan,Cucumbers,294.6,RUB/kg
+2024-01-01,Kazan,Cucumbers,294.2,RUB/kg
+2024-02-01,Kazan,Cucumbers,318.9,RUB/kg
+2024-03-01,Kazan,Cucumbers,327.9,RUB/kg
+2024-04-01,Kazan,Cucumbers,260.9,RUB/kg
+2024-05-01,Kazan,Cucumbers,250.5,RUB/kg
+2024-06-01,Kazan,Cucumbers,196.2,RUB/kg
+2024-07-01,Kazan,Cucumbers,199.9,RUB/kg
+2024-08-01,Kazan,Cucumbers,220.1,RUB/kg
+2024-09-01,Kazan,Cucumbers,275.5,RUB/kg
+2024-10-01,Kazan,Cucumbers,262.4,RUB/kg
+2024-11-01,Kazan,Cucumbers,289.2,RUB/kg
+2024-12-01,Kazan,Cucumbers,345.1,RUB/kg
+2025-01-01,Kazan,Cucumbers,357.3,RUB/kg
+2025-02-01,Kazan,Cucumbers,343.7,RUB/kg
+2025-03-01,Kazan,Cucumbers,369.9,RUB/kg
+2025-04-01,Kazan,Cucumbers,269.9,RUB/kg
+2025-05-01,Kazan,Cucumbers,250.1,RUB/kg
+2025-06-01,Kazan,Cucumbers,194.6,RUB/kg
+2025-07-01,Kazan,Cucumbers,223.5,RUB/kg
+2025-08-01,Kazan,Cucumbers,220.7,RUB/kg
+2025-09-01,Kazan,Cucumbers,281.4,RUB/kg
+2025-10-01,Kazan,Cucumbers,266.0,RUB/kg
+2025-11-01,Kazan,Cucumbers,284.3,RUB/kg
+2025-12-01,Kazan,Cucumbers,363.0,RUB/kg
+2026-01-01,Kazan,Cucumbers,369.8,RUB/kg
+2026-02-01,Kazan,Cucumbers,374.5,RUB/kg
+2023-01-01,Kazan,Bananas,27.1,RUB/kg
+2023-02-01,Kazan,Bananas,25.7,RUB/kg
+2023-03-01,Kazan,Bananas,32.0,RUB/kg
+2023-04-01,Kazan,Bananas,28.9,RUB/kg
+2023-05-01,Kazan,Bananas,27.1,RUB/kg
+2023-06-01,Kazan,Bananas,27.4,RUB/kg
+2023-07-01,Kazan,Bananas,26.9,RUB/kg
+2023-08-01,Kazan,Bananas,28.4,RUB/kg
+2023-09-01,Kazan,Bananas,28.2,RUB/kg
+2023-10-01,Kazan,Bananas,28.6,RUB/kg
+2023-11-01,Kazan,Bananas,27.8,RUB/kg
+2023-12-01,Kazan,Bananas,28.4,RUB/kg
+2024-01-01,Kazan,Bananas,29.1,RUB/kg
+2024-02-01,Kazan,Bananas,28.2,RUB/kg
+2024-03-01,Kazan,Bananas,29.0,RUB/kg
+2024-04-01,Kazan,Bananas,29.0,RUB/kg
+2024-05-01,Kazan,Bananas,28.6,RUB/kg
+2024-06-01,Kazan,Bananas,29.3,RUB/kg
+2024-07-01,Kazan,Bananas,30.1,RUB/kg
+2024-08-01,Kazan,Bananas,31.8,RUB/kg
+2024-09-01,Kazan,Bananas,34.0,RUB/kg
+2024-10-01,Kazan,Bananas,29.5,RUB/kg
+2024-11-01,Kazan,Bananas,30.9,RUB/kg
+2024-12-01,Kazan,Bananas,30.7,RUB/kg
+2025-01-01,Kazan,Bananas,31.7,RUB/kg
+2025-02-01,Kazan,Bananas,32.3,RUB/kg
+2025-03-01,Kazan,Bananas,33.2,RUB/kg
+2025-04-01,Kazan,Bananas,31.4,RUB/kg
+2025-05-01,Kazan,Bananas,32.6,RUB/kg
+2025-06-01,Kazan,Bananas,31.0,RUB/kg
+2025-07-01,Kazan,Bananas,32.5,RUB/kg
+2025-08-01,Kazan,Bananas,32.9,RUB/kg
+2025-09-01,Kazan,Bananas,35.1,RUB/kg
+2025-10-01,Kazan,Bananas,33.2,RUB/kg
+2025-11-01,Kazan,Bananas,33.1,RUB/kg
+2025-12-01,Kazan,Bananas,34.2,RUB/kg
+2026-01-01,Kazan,Bananas,33.0,RUB/kg
+2026-02-01,Kazan,Bananas,34.0,RUB/kg
+2023-01-01,Kazan,Chicken Breast,363.9,RUB/kg
+2023-02-01,Kazan,Chicken Breast,369.2,RUB/kg
+2023-03-01,Kazan,Chicken Breast,427.8,RUB/kg
+2023-04-01,Kazan,Chicken Breast,442.3,RUB/kg
+2023-05-01,Kazan,Chicken Breast,361.9,RUB/kg
+2023-06-01,Kazan,Chicken Breast,367.9,RUB/kg
+2023-07-01,Kazan,Chicken Breast,400.8,RUB/kg
+2023-08-01,Kazan,Chicken Breast,378.9,RUB/kg
+2023-09-01,Kazan,Chicken Breast,401.6,RUB/kg
+2023-10-01,Kazan,Chicken Breast,382.8,RUB/kg
+2023-11-01,Kazan,Chicken Breast,385.4,RUB/kg
+2023-12-01,Kazan,Chicken Breast,381.7,RUB/kg
+2024-01-01,Kazan,Chicken Breast,417.7,RUB/kg
+2024-02-01,Kazan,Chicken Breast,405.2,RUB/kg
+2024-03-01,Kazan,Chicken Breast,415.1,RUB/kg
+2024-04-01,Kazan,Chicken Breast,408.6,RUB/kg
+2024-05-01,Kazan,Chicken Breast,408.6,RUB/kg
+2024-06-01,Kazan,Chicken Breast,392.1,RUB/kg
+2024-07-01,Kazan,Chicken Breast,410.7,RUB/kg
+2024-08-01,Kazan,Chicken Breast,477.6,RUB/kg
+2024-09-01,Kazan,Chicken Breast,449.2,RUB/kg
+2024-10-01,Kazan,Chicken Breast,441.2,RUB/kg
+2024-11-01,Kazan,Chicken Breast,429.5,RUB/kg
+2024-12-01,Kazan,Chicken Breast,412.5,RUB/kg
+2025-01-01,Kazan,Chicken Breast,438.0,RUB/kg
+2025-02-01,Kazan,Chicken Breast,429.6,RUB/kg
+2025-03-01,Kazan,Chicken Breast,432.7,RUB/kg
+2025-04-01,Kazan,Chicken Breast,444.9,RUB/kg
+2025-05-01,Kazan,Chicken Breast,451.2,RUB/kg
+2025-06-01,Kazan,Chicken Breast,486.3,RUB/kg
+2025-07-01,Kazan,Chicken Breast,521.3,RUB/kg
+2025-08-01,Kazan,Chicken Breast,448.0,RUB/kg
+2025-09-01,Kazan,Chicken Breast,465.9,RUB/kg
+2025-10-01,Kazan,Chicken Breast,446.0,RUB/kg
+2025-11-01,Kazan,Chicken Breast,466.5,RUB/kg
+2025-12-01,Kazan,Chicken Breast,469.5,RUB/kg
+2026-01-01,Kazan,Chicken Breast,472.8,RUB/kg
+2026-02-01,Kazan,Chicken Breast,476.1,RUB/kg
